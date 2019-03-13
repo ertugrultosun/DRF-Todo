@@ -38,5 +38,4 @@ npm start
 ## NOTICE:
 Please use the application with the backend's url. Without that the CRUD operations can not completed.
 
-## Thanks:
-Thanks to dmryutov.
+
